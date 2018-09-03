@@ -1,0 +1,5 @@
+0,0,0 //Camera Position(default : 0,0,0)(-z방향)
+640,640//Screen resolution(default : 640,640)
+5//Ray tracing depth(default : 5)
+0// start frame(default : 0)
+1191// end frame(default : 1191)(end frame 이전 프레임까지 출력)
